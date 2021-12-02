@@ -7,8 +7,7 @@
 
 ###### List of steps to perform :
 1.   Import the dataset, then read an image from the camera (camera 2) and the matrix of 3D lidar points
-2.   Remove the lidar points that may be behind the camera (that are less than a 5 meter threshold in the x-axis (for lidar, 
-     the direction of the x-axis is a forward direction)), i.e., eliminate the lidar points that are behind the 180° view area      of the camera. 
+2.   Remove the lidar points that may be behind the camera (that are less than a 5 meter threshold in the x-axis (for lidar, the direction of the x-axis is a forward direction)), i.e., eliminate the lidar points that are behind the 180° view area of the camera. 
 3.   Lidar to camera transformation 
 4.   Projection into the camera image
 5.   Filtering of the projection points that have coordinates outside the range of the image size, then displaying 

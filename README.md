@@ -1,5 +1,5 @@
 # 3D-Projective-Geometry-
-###### The objective of this TP is to add the color index in a 2D image, this color index indicates the depth of each point in this image. We will use transformations provided by a dataset to project a 3D point cloud on the image plane of a color camera (the camera takes the image, then the lidar create a 3D point cloud). This allows to know the depth of a set of 2d points in the image. The color of each point indicates the depth of that point.
+###### The objective is to add the color index in a 2D image, this color index indicates the depth of each point in this image. We will use transformations provided by a dataset to project a 3D point cloud on the image plane of a color camera (the camera takes the image, then the lidar create a 3D point cloud). This allows to know the depth of a set of 2d points in the image. The color of each point indicates the depth of that point.
 
 ###### Preliminary step : 
 - We are interested in the RAW section of the dataset from the following link: http://www.cvlibs.net/datasets/kitti/. 

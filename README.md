@@ -13,5 +13,6 @@
 5.   Filtering of the projection points that have coordinates outside the range of the image size, then displaying 
 6.   Colorization of the points using the third z-coordinate of the lidar matrix
 
-Lidar transformation and projection on a camera (3D to 2D):
-We will use the RAW section of the dataset, the date sequence = "2011_09_26" and drive = "0009".
+![indexII](https://user-images.githubusercontent.com/95139819/172069957-dab627b5-8cee-4a75-8490-35bf94341503.png)
+
+
